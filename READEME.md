@@ -3,7 +3,7 @@
 
 ## 相关信息
 + 服务器ip`123.56.158.37`
-+ 所在目录`home\lesang`
++ 所在目录`home\lesang-template`
 + 服务器相关软件在`alidata\`目录下
 + 虚拟Vhost
 ```
