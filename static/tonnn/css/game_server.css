@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+#header{border-bottom:4px solid #fb9c12;margin-bottom:20px;}
+#main {width:940px;margin:20px auto 35px;}
+#main .sidebar {float:left;display:inline;width:222px;}
+#main .sidebar .ads{width:220px;height:198px;border:1px solid #d0d0d0;background:#f0f0f0 url("../images/ad_1.png") no-repeat -4px 1px;margin-bottom:15px;}
+#main .mainOption{width:698px;border:1px solid #d0d0d0;height:270px;float:right;display:inline;background-color:#fff;}
+#main .mainOption .area{padding:40px 15px 30px;}
+#main .mainOption .area li{width:210px;height:198px;float:left;display:inline;border-right:1px solid #ddd1d1;}
+#main .mainOption .area p{margin-bottom:5px;color:#4b4a4b;padding-left:10px;}
+#main .mainOption .area .findPwd{display:block;width:143px;height:36px;background:url("../images/find_pwd.png") no-repeat left top;margin:18px 0 0 57px;}
+#main .mainOption .area .last p{padding-left:55px;}
+#main .mainOption .area .last p a{color:#4b4a4b;}
+#main .commonQ{width:698px;border:1px solid #d0d0d0;height:270px;float:right;display:inline;background-color:#fff;}
+#main .commonQ .title{color:#ff6a00;}
+#main .commonQ .title a{float:right;display:inline;color:#1c618b;}
+#main .commonQ .quz{padding:15px 20px;}
+#main .commonQ .quz li{margin-bottom:20px;padding-left:20px;background:url("../images/arrow_right.png") no-repeat 4px 4px;}
+#main .commonQ .quz a{color:#4b4a4b;}
+
+#main .getPwd{width:698px;border:1px solid #d0d0d0;min-height:270px;_height:270px;float:right;display:inline;background-color:#fff;}
+#main .getPwd .content{padding:20px 10px 10px;position:relative;zoom:1;}
+#main .getPwd .content .username,#main .getPwd .content .mail,#main .getPwd .content .area{width:215px;height:30px;border:1px solid #b8b8b8;line-height:35px;border-radius:2px;-webkit-transition:all .5s ease-in .1s;padding-left:3px;margin-left:10px;vertical-align:middle;}
+#main .getPwd .content .form{font-size:14px;color:#4b4a4b;margin:5px 0 0 143px;}
+#main .getPwd .content .next,#main .getPwd .content .form .next{display:block;width:100px;height:33px;background:url("../images/button_orange.png") no-repeat 3px 2px;border:0;color:#fff;cursor:pointer;margin:12px 0 0 75px;}
+#main .getPwd .content .method{height:129px;background:url("../images/getPwdMethod.png") no-repeat 25px 0;position:relative;zoom:1;padding-bottom:40px;}
+#main .getPwd .content .method a{color:#4c7aa1;position:absolute;top:130px;}
+#main .getPwd .content .method a.one{left:60px;}
+#main .getPwd .content .method a.two{left:278px;}
+#main .getPwd .content .method a.three{left:545px;}
+#main .getPwd .content .formPhone .next{margin-left:93px;}
+#main .getPwd .content .formPhone .sendYZM{display:block;padding:5px 15px;color:#5f5e5f;margin:10px 0 15px 98px;cursor:pointer;overflow:visible;*padding:5px 0;}
+#main .getPwd .content .formPhone .area{width:100px;}
+#main .getPwd .content .formProtect{}
+#main .getPwd .content .formProtect label{display:block;color:#5f5e5f;margin-bottom:10px;}
+#main .getPwd .content .formProtect select,#main .getPwd .content .formProtect input{color:#5f5e5f;width:195px;height:26px;line-height:26px;border:1px solid #b8b8b8;margin-left:5px;padding-left:3px;vertical-align:middle;}
+#main .getPwd .content .formProtect select{padding:3px 5px;height:28px;line-height:28px;width:200px;*font-size:14px;}
+#main .getPwd .content .block{padding:15px 0 5px 130px;}
+#main .getPwd .content .block span{font-size:14px;color:#4b4b4b;}
+
+
+
+
+
+

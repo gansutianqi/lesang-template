@@ -1,0 +1,31 @@
+@charset "utf-8";
+.main{background:url("../images/singin-bg.jpg") no-repeat center top;margin:0 auto;margin-bottom:35px;}
+.main .forms{width:980px;height:480px;margin:0 auto;position:relative;}
+.main .forms .singin-form{background-position:-305px 0px;width:280px;height:290px;position:absolute;top:70px;right:35px;padding:35px 20px 25px 20px;}
+/*输入框*/
+.main .forms .singin-form .singin-group{margin:0 25px 20px 17px;}
+.main .forms .singin-form .singin-group label{vertical-align:top;}
+.main .forms .singin-form .singin-group .input-style{border:0;padding-left:35px;color:#bbb;font-size:14px;width:204px;height:34px;line-height:33px;}
+.main .forms .singin-form .singin-group .account-handle{background-position:0 1px;}
+.main .forms .singin-form .singin-group .password-handle{background-position:0 1px;}
+.main .forms .singin-form .singin-group .forgerPwd{float:right;display:inline;color:#666;}
+.main .forms .singin-form .singin-group .remember-handle{background-position:0 -368px;width:16px;display:inline-block;height:16px;}
+.main .forms .singin-form .singin-group .base-input-focus{background-position:-40px -351px;*background-position:-39px -351px;}
+.main .forms .singin-form .singin-group .error{background-position:-40px -408px;*background-position:-39px -407px;}
+.main .forms .singin-form .singin-group .username,.main .forms .singin-form .singin-group .password{display:inline-block;width:15px;height:20px;position:absolute;z-index:2;left:45px;}
+.main .forms .singin-form .singin-group .username{background-position:0px -393px;top:45px;}
+.main .forms .singin-form .singin-group .password{background-position:0px -433px;top:98px;*top:102px;}
+/*错误提示*/
+.main .forms .singin-form .login-errors{color:#fe0024;margin:0 0 20px 15px;}
+.main .forms .singin-form .login-errors .icon-error{display:inline-block;background-position:1px -304px;width:17px;height:16px;margin-right:3px;*margin-top:2px;}
+/*提交按钮*/
+.main .forms .singin-form .singin-group .login-btn{cursor: pointer;background-position:0 -128px;display:inline-block;width:237px;height:38px;line-height:38px;text-align:center;text-decoration:none;border:0;color:#fff;font-size:18px;}
+.main .forms .singin-form .singin-group .login-btn:hover{background-position:0 -200px;}
+/*免费注册信息*/
+.main .forms .singin-form .singup-msg{position:absolute;bottom:0;width:237px;text-align:center;}
+.main .forms .singin-form .singup-msg .free-account{color:#f60;margin-left:10px;}
+/*链接信息*/
+.friend-link{position:absolute;bottom:10px;right:35px;}
+.friend-link .s-charge,.friend-link .s-gold{display:inline-block;width:115px;height:35px;margin-right:10px;}
+.friend-link .cz-rebate{display:inline-block;width:150px;height:35px;}
+.fuli-link{position:absolute;width:578px;height:480px;top:0;right:0;top:0;right:42%;}

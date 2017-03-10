@@ -1,0 +1,37 @@
+.service-bg{height:300px;background:#42bfff url(../images/service-bg.jpg) no-repeat center center;position:relative;}
+.service-flash-bg{position:absolute;top:0;left:50%;width:400px;height:338px;z-index:99;margin-left:165px;}
+
+.service-hotline{height:266px;background:#fff;margin-bottom:35px;}
+.service-hotline .service-hotline-area{height:212px;padding:30px;}
+.service-hotline .service-btn-area{width:153px;height:212px;margin-right:100px;position:relative;}
+.service-hotline .last-btn{margin-right:0;}
+.service-hotline .qq-btn{background:url(../images/service-btn.png) no-repeat 0 0;height:153px;width:153px;margin-bottom:5px;display:inline-block;*display:inline;zoom:1;}
+.service-hotline .people-line-btn{background-position:0 -173px;}
+.service-hotline .pwd-btn{background-position:0 -346px;}
+.service-hotline .table-btn{background-position:0 -519px;_margin-bottom:4px;}
+.service-hotline .service-color-area{width:153px;text-align:center;color:#999;}
+
+.service-hotline .link-area{text-align:center;line-height:25px;}
+.service-hotline .link-split{margin:0 5px;}
+.service-hotline .service-color{color:#999;text-align:center;display:inline-block;*display:inline;*zoom:1;}
+.service-hotline .tb-color{color:#999;text-align:center;display:inline-block;*display:inline;*zoom:1;}
+.service-hotline .word-size{font-size:20px;text-align:center;width:153px;color:#606060;display:inline-block;*display:inline;*zoom:1;}
+.service-hotline .service-color:hover{color:#ff8400;text-decoration:none;}
+.service-hotline-area a{
+		-webkit-background-size: 220px 220px;
+		-moz-background-size: 220px 220px;
+		background-size: 220px 220px;
+		-webkit-border-radius: 110px;
+		border-radius: 110px;
+		-webkit-transition: -webkit-transform 0.3s ease-out;
+		-moz-transition: -moz-transform 0.3s ease-out;
+		-o-transition: -o-transform 0.3s ease-out;
+		-ms-transition: -ms-transform 0.3s ease-out;
+	}
+  	.service-hotline-area a:hover{
+		-webkit-transform: rotateZ(360deg);
+		-moz-transform: rotateZ(360deg);
+		-o-transform: rotateZ(360deg);
+		-ms-transform: rotateZ(360deg);
+		transform: rotateZ(360deg);
+  	}	

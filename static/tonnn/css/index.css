@@ -1,0 +1,298 @@
+/*å…¬å…±æ ·å¼*/
+.common-title{font-size:16px;padding:15px 20px 20px;font-weight:bold;}
+.common-title-icon{background:url(../images/index.png) no-repeat 0 -463px;width:16px;height:17px;float:left;*display:inline;position:relative;top:3px;padding-right:6px;}
+.more-link{font-size:12px;font-weight:normal;display:inline-block;*display:inline;*zoom:1;position:absolute;top:20px;right:10px;padding-right:27px;text-decoration:none!important;background:url(../images/index.png) no-repeat 28px -497px;height:18px;line-height:20px;}
+.more-link-icon{width:13px;height:13px;position:relative;top:-14px;left:5px;}
+.ui-tab-items{font-size:14px;border-bottom:2px solid #f5f5f5;}
+.ui-tab-item{position:relative;top:2px;vertical-align:top;float:left;*display:inline;}
+.ui-tab-item-a{background:#fff;line-height:40px;height:40px;width:75px;text-align:center;*display:inline;zoom:1;border-left:2px solid #f5f5f5;float:left;display:inline;}
+.ui-tab-item-current a{font-weight:bold;height:42px;text-decoration:none;}
+.ui-tab-item-br{border-left:0;}
+.game-bg{background:url(../images/game-bg.png) repeat-y 0  0;margin-bottom:35px;}
+/*å¹¿å‘Šå¤§å›¾*/
+.banner-area{background:#e5e5e5;height:329px;position:relative;}
+/*2015-02-17 update*/
+/*.banner-area{
+    background:url(../images/tonnn_index_newyear.jpg) center no-repeat;height:329px;position:relative;}
+*/
+.banner{width:735px;height:300px;margin-right:15px;background:#fff;}
+
+/*ç™»å½•åŒºåŸŸ*/
+.login-title{width:230px;height:40px;}
+.login-title .user-login{font-size:14px;color:#fff;text-align:center;width:117px;height:40px;line-height:40px;background:#0099ff;text-decoration:none;font-weight:bold;}
+.login-title .user-sigin{font-size:14px;color:#fff;display:inline-block;*display:inline;*zoom:1;width:111px;height:38px;line-height:40px;text-align:center;background:#ff8e00;margin:0 0 2px 2px;}
+/*ç™»é™†å‰*/
+.login-area{width:230px;height:260px;background:#0099ff;}
+.login-content{padding:13px 15px 0 15px;position:relative;}
+.login-area .form-login{width:200px;height:102px;}
+.login-area .login-text{width:115px;height:18px;line-height:18px;*height:16px;*line-height:16px;padding:5px;border:0;background:#b3e1ff;margin-bottom:10px;outline:0;}
+.login-area .submit-button{display:inline-block;width:66px;height:66px;position:absolute;top:13px;right:15px;background:url(../images/index.png) no-repeat 0 0;border:0;cursor: pointer;outline:none;}
+.login-area .submit-button:hover{background-position:0 -86px;}
+
+.login-area .login-opitons{color:#fff;margin-bottom:8px;}
+.login-area .remember-me{vertical-align:middle;margin-right:3px;}
+.login-area .forget-pwd{color:#fff;text-decoration:none;}
+
+/*ç™»é™†åŽ*/
+.loged-status{height:300px;width:230px;background:#0099ff;position:relative;}
+.loged-status .user-logo{width:82px;height:82px;margin-right:7px;margin-bottom:15px;}
+.loged-status .user-logo img{vertical-align:top;border:1px solid #fff;}
+.loged-status .user-content{margin-bottom:8px;}
+.loged-status .user-color{color:#fff;}
+.loged-status .vip-icon{margin-left:10px;}
+.loged-status .user-center{background:#26a8ff;text-align:center;width:63px;height:24px;line-height:24px;display:inline-block;*display:inline;*zoom:1;}
+.loged-status .sign-out{width:38px;margin-right:0;}
+.loged-status .platform{width:44px;height:14px;background:url(../images/index.png) no-repeat -26px -170px;display:inline-block;*display:inline;zoom:1;padding-left:18px;line-height:14px;}
+.loged-status .money-color{color:#f6ff00;}
+.phone-tips{position:absolute;top:132px;left:15px;_left:0;width:205px;height:107px;background:url(../images/index.png) no-repeat -149px -693px;}
+.phone-tips .phone-content{padding:9px 10px 0 10px;}
+.phone-tips .tips-area{margin-bottom:10px;}
+.phone-tips .warmming{font-size:14px;color:#ff3366;font-weight:bold;}
+.phone-tips .phone-tips-close{text-decoration:none;padding-right:5px;}
+.phone-tips .phone-split{background-color:#fff;}
+.phone-tips .phone-font-size{font-size:13px;line-height:23px;}
+.phone-tips .link-color{color:#0099ff;text-decoration:underline;}
+
+.login-split{height:1px;background-color:#33adff;overflow:hidden;margin-bottom:8px;}
+.like-games{color:#fff;margin-bottom:10px;}
+.like-games-link{background:#26a8ff;display:inline-block;*display:inline;*zoom:1;height:24px;width:200px;text-decoration:none!important;position:relative;margin-bottom:8px;}
+.like-games-link:hover{background:#68c3ff;}
+.like-games-link img{vertical-align:top;padding:3px 4px 3px 8px;}
+.like-games-link span{color:#fff;height:26px;line-height:26px;display:inline-block;*display:inline;*zoom:1;}
+.game-server{position:absolute;right:25px;top:0;}
+.game-server-img{width:6px;height:10px!important;background:url(../images/index.png) no-repeat 0 -172px;position:absolute;right:10px;top:9px;_background:url(../images/index.png) no-repeat 0 -172px;}
+.link-user{display:inline-block;*display:inline;*zoom:1;}
+/*æŽ¨èæ¸¸æˆ*/
+.recommended-games{height:260px;background:#fff;margin-bottom: 15px;_overflow:hidden;position:relative;}
+.recommended-games .recommended-games-list{width:218px;position:relative;margin-left:20px;float:left;*display:inline;}
+.recommended-games .recommended-games-list-a img{vertical-align:top;width:218px;height:140px;}
+.recommended-games .recommended-games-tex{position:absolute;top:116px;left:0;z-index:99;color:#fff;width:218px;font-size:12px;height:24px;line-height:24px;background:url(../images/index.png) no-repeat 0 -219px;}
+.recommended-games .recommended-games-name{float:left;display:inline;padding-left:5px;color:#fff;text-decoration:none;}
+.recommended-games .recommended-games-info{float:right;display:inline;padding-right:5px;color:#fff;text-decoration:none;}
+.recommended-games .recommended-games-opt{margin-top:15px;}
+.recommended-games .recommended-games-receive-gift{margin-right:6px;width:104px;height:30px;display:inline-block;*display:inline;zoom:1;text-align: center;line-height: 31px;background:url(../images/index.png) no-repeat 0 -263px;_background-image:url(../images/index-png8.png);text-indent:22px;}
+.recommended-games .recommended-games-receive-gift:hover{background-position:0 -313px;text-decoration:none;}
+.recommended-games .recommended-games-enter-game{font-weight:bold;width:104px;height:30px;display:inline-block;*display:inline;*zoom:1;text-align:center;line-height:30px;background:url(../images/index.png) no-repeat 0 -363px;color:#fff;_background-image:url(../images/index-png8.png);}
+.recommended-games .recommended-games-enter-game:hover{background-position: 0 -413px;text-decoration:none;}
+
+/*æœåŠ¡å™¨åˆ—è¡¨*/
+.side-servers{background:#fff;margin-bottom:15px;}
+.side-servers .server-tab{width:114px;}
+
+.server-content{padding:15px 15px 10px 15px;}
+.server-content-row{margin-bottom:5px;}
+.server-content .server-content-time{background:url(../images/index.png) no-repeat 0 -533px;width:78px;height:22px;text-align:center;color:#fff;line-height:21px;}
+.server-content .other-server-content-time{background-position:0 -575px;}
+
+.server-content .server-txt{text-align:center;height:22px;line-height:21px;padding-left:15px;}
+.server-content .server-txt-color{color:#0086f8;}
+.server-content .server-list{height: 22px;line-height: 22px;}
+.server-content .server-color{color:#ff6600;}
+
+.server-content .open-service-close{background:url(../images/index.png) no-repeat 0 -647px;width:78px;height:22px;text-align:center;color:#fff;line-height:21px;display:inline-block;*display:inline;*zoom:1;}
+.server-content .qq-tips{background-position:-320px -369px;text-indent:-9999px;}
+.server-content .qq-tips-color{color:#fff;text-decoration:none;}
+.server-area{height:351px;}
+/*æ–°é—»å…¬å‘Š æ´»åŠ¨*/
+.side-news{margin-bottom:15px;background:#fff;}
+/*.news-tab-contents .tab-content{display:none;}*/
+.news-tab-contents .tab-content-current{display:block;}
+.news-tab-contents .news-lists{height:177px;padding:10px 12px 0;}
+.news-tab-contents .news-lists li{margin-bottom:6px;*margin-bottom:3px;}
+.news-tab-contents .news-lists li a{width:190px;}
+.news-tab-contents .news-lists li .news-split{color:#d9d9d9;padding-right:10px;}
+.news-tab-contents .news-lists li .hot-news{color:#ff8400;}
+
+/*å¹¿å‘Š*/
+.ad{margin-bottom:15px;}
+.ad img{vertical-align:top;width:229px;height:85px;}
+
+/*çƒ­é—¨æ¸¸æˆ*/
+.hot-games{width:735px;background:#fff;margin-bottom:15px;float:left;display:inline;overflow:hidden;position:relative;}
+.hot-games .hot-games-title{font-size:16px;padding-top:10px;padding-left:20px;margin-bottom:20px;font-weight:bold;}
+.hot-games .hot-games-wall{padding-left:20px;}
+.hot-games .hot-games-content{width:218px;margin-right:20px;float:left;*display:inline;padding-bottom:30px;}
+.hot-games .hot-games-content h4{font-size:14px;font-weight:bold;}
+.hot-games .hot-games-content-link{display:inline-block;*display:inline;*zoom:1;}
+.hot-games .hot-games-pic{float: left;}
+.hot-games .hot-games-score{background:url(../images/index.png) no-repeat 0 -689px;margin-top:12px;margin-bottom:7px;width:89px;height:16px; _background-image:url(../images/index-png8.png);}
+.hot-games .hotgames-txt{margin-bottom:10px;}
+.hot-games .hot-games-content p{float:left;display:inline;}
+.hot-games .split{padding:0 3px 0 3px;color:#bebebe;}
+.hot-games .hot-games-opn{margin-top:10px; text-align:center;float:left;display:inline;}
+.hot-games .hot-games-enter-game{font-weight:bold;width:89px;height:30px;display:inline-block;*display:inline;*zoom:1;text-align:center;line-height:30px;background:url(../images/index.png) no-repeat -124px -363px;color:#fff;_background-image:url(../images/index-png8.png);}
+.hot-games .hot-games-enter-game:hover{background-position: 0 -413px;text-decoration: none;}
+
+.the-game-list-wall .hot-games-content{margin-right:0px;}
+
+/*æ›´å¤šæ¸¸æˆ*/
+.games-view{background:#fff;margin-bottom:15px;overflow:hidden;position:relative;width:980px;}
+.more-game-list{border:solid 1px #e8e8e8;margin: 0 24px 20px 20px;}
+.more-game-list .game-content{width:186px;border-right:solid 1px #e8e8e8;border-bottom:solid 1px #e8e8e8;height:40px;float:left;line-height:39px;}
+.more-game-list .game-content a{display: block;overflow: hidden;padding: 10px 0 12px 10px; vertical-align: top;cursor: pointer;height: 18px;line-height: 20px;text-decoration:none;}
+.more-game-list .game-content :hover{background:#fffbd7;}
+.more-game-list .game-content a img{width:16px;height:16px;margin-right:5px;vertical-align:top;position:relative;top:3px;left:4px;}
+.more-game-list .last-li{border-right:0;}
+.more-game-list .last-bt{border-bottom:0;}
+
+/*æ¸¸æˆç¾Žå¥³*/
+.game-girl{height:231px;background: #fff;overflow:hidden;margin-bottom:15px;width:980px;}
+.focusImages{position: relative;margin-left: 20px;margin-right: 20px;width: 940px;overflow: hidden;height: 183px;}
+.focusImages ul{float:left;position:absolute;top:0;left:0;}
+.focusImages div{position:absolute;left:50%;bottom:13px;margin-left:-42px;}
+.focusImages span{cursor:pointer;background:url(../images/controller-bottom.png) no-repeat 0 -14px;display:inline-block;*zoom:1;*display:inline;width:14px;height:14px;overflow:hidden;line-height:0;margin:0 8px;_background-image:url(controller-bottom-png8.png);}
+.focusImages span.on{background:url(../images/controller-bottom.png) no-repeat 0 0;_background-image:url(controller-bottom-png8.png);}
+.focusImages li{float:left;}
+.focusImages li img{vertical-align:top;width:172px;height:138px;}
+/*å‹æƒ…é“¾æŽ¥*/
+.friendly-link{overflow:hidden;margin-bottom:35px;width:980px;background:#fff;}
+.friendly-link-tab{width:116px;}
+.friendly-link-tab-br{border-right:2px solid #f5f5f5;}
+.friendly-link .friendly-link-name{padding:10px 20px;}
+.friendly-link .friendly-link-name a{line-height:1.8}
+.friendly-link .split{color:#bebebe;padding-right: 8px;padding-left: 8px;vertical-align:top;}
+
+
+/*æ¸¸æˆå†…é¡µ*/
+.the-game-list{width:980px;min-height:621px;_height:621px;background:#fff;margin-bottom:40px;position:relative;}
+.the-game-list .list-open-service{padding-left:18px;margin-bottom:8px;background:url(../images/index.png) no-repeat -32px -498px;display:inline-block;*display:inline;*zoom:1;}
+.the-game-list-wall{width:980px;}
+.the-game-list .list-mr{width:230px;margin-left:7px;}
+.the-game-list .list-mg{margin-bottom:10px;}
+.game-split{height:15px;background:#f5f5f5}
+.game-split-area{margin-bottom:0;}
+.gamesr{height:260px;overflow:hidden;}
+
+/*æœåŠ¡å™¨å†…é¡µ æ¸¸æˆå›¾ç‰‡*/
+.game-pic{width:735px;height:258px;position:relative;background:#fff;}
+.game-pic .game-pic-info{width:735px;height:32px;position:absolute;bottom:0;left:0;background:url(../images/index.png) no-repeat -47px -455px;z-index:99;}
+
+.game-pic .game-info{height:32px;line-height:32px;text-align:right;padding-right:5px;}
+.game-pic .game-info-color{color:#fff;text-decoration:none;}
+.game-pic .game-info-color:hover{color:#ff8400;}
+.game-pic .font-style{padding:0 5px;cursor:pointer;}
+.game-pic .index-icon{background:url(../images/index.png) no-repeat -107px -169px;width:13px; height:13px;padding-left:20px;margin-left:5px;}
+
+/*æ¸¸æˆåˆ—è¡¨*/
+.game-service{width:735px;background:#fff;min-height:544px;_height:544px;}
+.game-service .game-service-tab{width:142px;text-decoration:none;}
+.game-service .game-rechange{width:16px;height:16px;background:url(../images/index.png) no-repeat -678px -784px;position:relative;top:11px;left: 28px;}
+
+.game-service-content{margin:28px 20px 20px 20px;position:relative;}
+.game-service-content .quicck-serrvice-area{height:24px;line-height:24px;position:absolute;top:0;right:0;}
+.game-service-content .input-box{width:54px;height:20px;border:1px solid #ccc;text-align:center;color:#555;}
+.game-service-content .quick-enter{background:url(../images/index.png) no-repeat -233px -367px;width:67px;height:23px;line-height:23px;color:#fff;display:inline-block;*display:inline;zoom:1;text-align:center;margin-left:5px;text-decoration:none;}
+.game-service-content .quick-enter:hover{background-position:-233px -420px;}
+
+.recently-played{font-weight:bold;font-size:14px;padding-top:40px;margin-bottom:15px;}
+.service-mr{margin-right:19px;margin-bottom:15px;}
+.game-service-content .service-details{margin-right:-20px;margin-bottom:15px;}
+.game-service-content .service-content{width:121px;height:30px;text-align:center;line-height:30px;background:url(../images/index.png) no-repeat -107px -530px;color:#fff;text-decoration:none;font-weight:bold;}
+.game-service-content .irritable-opening-color{color:#999;}
+.game-service-content .new-service-color{color:#ff0000;font-weight:bold;}
+.game-service-content .service-content:hover{background-position:-247px -530px;}
+.game-service-content .time-content{width:98px;height:30px;background:url(../images/index.png) no-repeat -389px -530px;text-align:center;line-height:30px;text-decoration:none;}
+.game-service-content .service-split{border-bottom: 1px dashed #ddd;width:692px;margin-bottom:15px;}
+.game-service-content .time-contet:hover{background-position:-107px -580px;}
+.game-service-content .the-open-service{background-position:-509px -530px;}
+.game-service-content .the-open-service:hover{background-position:-509px -580px;}
+.game-sr{height:260px;overflow:hidden;margin-bottom:0;}
+
+.service-list{border-bottom: 1px solid #e8e8e8;margin-bottom:15px;}
+.service-list .service-list-li a{line-height: 30px;height: 30px;float:left;display:inline;width: 81px;border: 1px solid #e8e8e8;border-bottom: none;margin-right: 10px;text-align: center;}
+.service-list .service-list-current a{margin-bottom:-1px;border-bottom:1px solid #fff;position:relative;z-index:99;}
+
+.service-details .service-left{background-position:-107px -580px;}
+.service-details .service-left:hover{background-position:-247px -580px;}
+
+/*çƒ­é—¨æ¸¸æˆ*/
+.servioe-hot-games{width:228px;height:475px;background:#fff;float:right;display:inline;margin-bottom:35px;_height:544px;}
+
+.servioe-hot-games .content{height:476px;margin-top:-10px;}
+.servioe-hot-games .content-list{padding-right: 20px;padding-left: 20px;}
+.servioe-hot-games  .content-box{padding: 9px 0px;text-decoration: none;overflow:hidden;border-bottom:1px dashed #ddd;}
+.servioe-hot-games .pic{float:left;width:16px;height: 16px;margin: 2px 5px 0 0;display: inline;}
+.servioe-hot-games .dd{float:right;display:inline;width:8px;height:8px;line-height:22px;background:url(../images/index.png) no-repeat -792px -792px;position: relative;top: 7px;left: 2px;}
+.servioe-hot-games .start-games{float: right;line-height: 21px;color: #999;}
+.servioe-hot-games  .do{width:10px;height:10px;display:inline-block;*display:inline;zoom:1;}
+.servioe-hot-games .game-detail{float:left;*display:inline;line-height:21px;text-decoration:none;}
+.servioe-hot-games .game-detail-color{color:#ff6600;font-weight:bold;}
+
+
+.selectBox {
+margin-left:25px;
+width:95%;
+border: 1px #e8e8e8 solid;
+border-top: none;
+margin-bottom: 10px;
+position: relative;
+background: #fff;
+}
+.selectBox dt {
+width: 65px;
+float: left;
+padding-left: 15px;
+background: #f4f4f4;
+height: 25px;
+padding-top: 14px;
+color: #666;
+}
+.selectBox dl {
+height: 39px;
+border-top: 1px #e8e8e8 solid;
+}
+.selectBox dd {
+/* width: 880px; */
+float: left;
+padding-left: 12px;
+padding-top: 8px;
+}
+.selectBox dd a {
+padding: 4px 6px 4px!important;
+padding: 5px 6px 3px;
+display: block;
+float: left;
+color: #333;
+margin-right: 16px;
+}
+.selectBox dl.hax {
+background: url(../images/bg.gif) 0 -199px repeat-x;
+padding-top: 1px;
+border: none;
+}
+.selectBox .curr{
+	color: #fff;
+	background: #1b8dd4;
+	text-decoration: none;
+}
+.selectBox a:hover{
+	color: #fff;
+	background: #1b8dd4;
+	text-decoration: none;
+}
+.paging{text-align:center;margin-bottom:20px;}
+.paging a {
+border: 1px solid #dddddd;
+padding: 0 9px;
+margin-left: 5px;
+text-decoration: none;
+background-color: #fff;
+width: 26px;
+height: 28px;
+line-height: 30px;
+display: inline-block;
+text-align: center;
+}
+.paging .current {
+background-color: #ff8e00;
+color: #fff;
+border: 1px solid #dddddd;
+padding: 0 9px;
+margin-left: 5px;
+text-decoration: none;
+width: 26px;
+height: 28px;
+line-height: 30px;
+display: inline-block;
+text-align: center;
+}
